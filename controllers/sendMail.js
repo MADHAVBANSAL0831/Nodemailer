@@ -9,7 +9,7 @@ const mail = async(req, res) => {
     var transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-          user: 'xyz.gmail.com',
+          user: 'xyzhjnjnn.gmail.com',
           pass: ''
         }
       });
